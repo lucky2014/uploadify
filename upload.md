@@ -1,5 +1,7 @@
 # express文件上传、上传到七牛
 
+官网：http://www.uploadify.com/demos/
+
 每个系统最可能需要的一部分
 
 ## express里multer
